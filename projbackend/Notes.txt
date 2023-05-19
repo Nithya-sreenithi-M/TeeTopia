@@ -1,0 +1,13 @@
+just do npm start everytime.
+
+npm init is for very first time to generate the package.json file
+
+local mongodb should be running in your machine - to connect with db
+manually starting the db may show some warnings. its fine
+
+Bug fixing
+models had a bug - userSchema.methods not method
+plain password in securepassword function's if
+// no need to import time stamp in user
+    return this.securePassword(plainpassword) === this.encry_password ===> in user model
+if(err || !user) - signin controller

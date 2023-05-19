@@ -1,0 +1,1 @@
+NPM Start will work in the folder where package.json file is present.
