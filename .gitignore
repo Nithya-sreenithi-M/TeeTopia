@@ -1,0 +1,9 @@
+proj-backend/node_modules
+
+proj-frontend/node_modules
+
+testprivateroute/node_modules
+
+testfront/React/myrouter/node_modules
+
+testfront/React/todo/node_modules
